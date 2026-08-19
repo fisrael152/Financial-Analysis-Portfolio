@@ -6,8 +6,8 @@ Financial analysis portfolio showcasing FP&A skills through a Vital Farms three-
 - Dynamic Excel Modeling — Lookup Functions in a Working Finance Context
 
 ## Projects
-- Vital Farms (VITL) — Three-Statement Financial Model
-A self-initiated financial model built on Vital Farms covering the income statement, balance sheet, and cash flow statement. The model examines revenue drivers and margin trends to assess business performance and sustainability.
+- Three-Statement Financial Model — CPG Brand
+A self-initiated financial model built on a fictional but realistic CPG brand covering the income statement, balance sheet, and cash flow statement. The model examines revenue drivers, margin trends, and overall financial sustainability to assess business performance and support strategic decision making.
 
 - Budget vs. Actual Variance Analysis — CPG Brand
 A dynamic budget vs. actual model built around a fictional CPG brand with realistic line items. The model uses INDEX-MATCH and XLOOKUP to pull actuals against budget dynamically and flags material variances with written commentary explaining the business drivers behind the numbers.
